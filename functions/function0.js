@@ -14,6 +14,6 @@ exports = function(arg){
 
     Try running in the console below.
   */
-  console.log("hello")
+  console.log("hello12333")
   return {arg: arg};
 };
